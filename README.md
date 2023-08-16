@@ -1,5 +1,5 @@
 # HospitalAppointments
-#### The analysis will be taken from **Kaggel** NoShowAppointments dataset; it's about medical in Brazil. The project aims to find the cause of the problem to the hospital management and discuss it in the conclusion. Thus, as a point of CRISP-DM, the analysis will show the patient and what are the relationships that affect the patients appearing in the hospital.
+#### The analysis will be taken from **Kaggel** NoShowAppointments dataset; it's about a hospital in Brazil. The project assumes it's a private hospital and aims to investigate the patient attitude and look for what's the factors affecting the patient whether they show up or not in the hospital, and this investigation will end up with findings that will help the hospital to increase the number of patients showing up and this will lead to increase the profit of the hospital.
 #### The libraries included in the project (numpy,pandas, seaborn, and matplotlib.pyplot).
 
 ## The project motivation
