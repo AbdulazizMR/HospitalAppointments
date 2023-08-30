@@ -18,4 +18,11 @@
 #### • The neighborhood does have an effect on the number of patients.
 
 #### • Most of the patient's gender attend appointments females more than males.
-	
+
+#### Blog post link: https://medium.com/@zoa42531/project-investigate-a-dataset-noshowappointments-45fd6ca243b0
+
+## Acknowledgements:
+
+#### I would like to extend my heartfelt thanks to Joni Hoppen and Aquarela Analytics for their invaluable insights, and Kaggle for publishing it. Their contribution has been immensely helpful and is truly appreciated.
+
+#### Dataset Link: https://www.kaggle.com/datasets/joniarroba/noshowappointments
